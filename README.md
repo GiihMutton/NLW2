@@ -1,2 +1,2 @@
 # NLW2
-Trilha Omnistack - Proffy
+Trilha Omnistack - Proffy (EDITAR)
